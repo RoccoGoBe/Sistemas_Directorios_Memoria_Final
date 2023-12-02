@@ -1,0 +1,13 @@
+../Core/Src/W25Qxx.c:17:6:csLOW	1
+../Core/Src/W25Qxx.c:23:6:csHIGH	1
+../Core/Src/W25Qxx.c:28:6:SPI_Write	1
+../Core/Src/W25Qxx.c:33:6:SPI_Read	1
+../Core/Src/W25Qxx.c:38:6:W25Q_Reset	1
+../Core/Src/W25Qxx.c:49:10:W25Q_ReadID	1
+../Core/Src/W25Qxx.c:60:6:W25Q_Read	1
+../Core/Src/W25Qxx.c:95:6:W25Q_FastRead	1
+../Core/Src/W25Qxx.c:132:6:write_enable	1
+../Core/Src/W25Qxx.c:141:6:write_disable	1
+../Core/Src/W25Qxx.c:150:10:bytestowrite	2
+../Core/Src/W25Qxx.c:156:6:W25Q_Erase_Sector	1
+../Core/Src/W25Qxx.c:188:6:W25Q_Write_Page	4
